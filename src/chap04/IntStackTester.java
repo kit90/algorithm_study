@@ -1,4 +1,4 @@
-// int형 고정 길이 스택의 사용 예
+package chap04;// int형 고정 길이 스택의 사용 예
 
 import java.util.Scanner;
 

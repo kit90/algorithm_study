@@ -1,3 +1,5 @@
+package chap04;
+
 public class Stack<E> {
     private E[] stk;
     private int capacity;

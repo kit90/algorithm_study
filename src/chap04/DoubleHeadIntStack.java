@@ -1,3 +1,5 @@
+package chap04;
+
 public class DoubleHeadIntStack {
     private int[] stk;           // 스택용 배열
     private int capacity;        // 스택 크기
