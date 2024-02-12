@@ -1,3 +1,5 @@
+package chap03;
+
 public class BinSearchX {
     public static void main(String[] args) {
         int[] arr = { 1, 4, 7, 10, 13, 15, 60, 60, 60, 60, 100};
