@@ -91,5 +91,5 @@ public class IntStack {
                 System.out.print(stk[i] + " ");
             System.out.println();
         }
-    }
+    } 
 }
